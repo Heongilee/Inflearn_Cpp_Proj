@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-9\main.cpp(12): warning C4101: 'home2work' :참조되지 않은 지역 변수입니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-9\main.cpp(11): warning C4101: 'my_distance' :참조되지 않은 지역 변수입니다.
+  Chapter4-9.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter4-9.exe
+  Chapter4-9.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter4-9.pdb (Partial PDB)

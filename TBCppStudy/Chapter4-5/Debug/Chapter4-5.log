@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-5\main.cpp(41): warning C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
+  Chapter4-5.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter4-5.exe
+  Chapter4-5.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter4-5.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-10\main.cpp(106): warning C4101: 'emp1' :참조되지 않은 지역 변수입니다.
+  Chapter4-10.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter4-10.exe
+  Chapter4-10.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter4-10.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-5\main.cpp(10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Chapter2-5.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter2-5.exe
+  Chapter2-5.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter2-5.pdb (Partial PDB)

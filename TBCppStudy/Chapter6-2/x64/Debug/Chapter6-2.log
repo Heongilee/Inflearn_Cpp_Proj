@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter6-2\main.cpp(9): warning C4311: '형식 캐스팅': 'int *[]'에서 'int'(으)로 포인터가 잘립니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter6-2\main.cpp(9): warning C4302: '형식 캐스팅': 'int *[]'에서 'int'(으)로 잘립니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter6-2\main.cpp(33): warning C4311: '형식 캐스팅': 'int (*)[20]'에서 'int'(으)로 포인터가 잘립니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter6-2\main.cpp(33): warning C4302: '형식 캐스팅': 'int (*)[20]'에서 'int'(으)로 잘립니다.
+  Chapter6-2.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\x64\Debug\Chapter6-2.exe
+  Chapter6-2.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\x64\Debug\Chapter6-2.pdb (Partial PDB)

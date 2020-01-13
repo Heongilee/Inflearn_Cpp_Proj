@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-7\main.cpp(39): warning C4101: 'c3' :참조되지 않은 지역 변수입니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-7\main.cpp(38): warning C4101: 'c2' :참조되지 않은 지역 변수입니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-7\main.cpp(40): warning C4101: 'c4' :참조되지 않은 지역 변수입니다.
+  Chapter2-7.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter2-7.exe
+  Chapter2-7.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter2-7.pdb (Partial PDB)

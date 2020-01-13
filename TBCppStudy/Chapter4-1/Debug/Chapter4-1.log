@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-1\main.cpp(27): error C2039: 'a': 'work1'의 멤버가 아닙니다.
+  c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-1\main.cpp(3): note: 'work1' 선언을 참조하십시오.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-1\main.cpp(27): error C2065: 'a': 선언되지 않은 식별자입니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-1\main.cpp(28): error C2039: 'doSomething': 'work1'의 멤버가 아닙니다.
+  c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-1\main.cpp(3): note: 'work1' 선언을 참조하십시오.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter4-1\main.cpp(28): error C3861: 'doSomething': 식별자를 찾을 수 없습니다.

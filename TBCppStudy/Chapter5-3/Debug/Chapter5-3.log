@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter5-3\main.cpp(138): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  Chapter5-3.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter5-3.exe
+  Chapter5-3.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter5-3.pdb (Partial PDB)

@@ -1,0 +1,2 @@
+﻿  main.cpp
+main.cpp(76): error C2065: 'ptr_x': 선언되지 않은 식별자입니다.

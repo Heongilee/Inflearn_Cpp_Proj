@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter1-9\main.cpp(12): warning C4091: '': 변수를 선언하지 않으면 'int' 왼쪽은 무시됩니다.
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter1-9\main.cpp(12): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.

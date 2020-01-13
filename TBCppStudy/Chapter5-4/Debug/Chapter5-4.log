@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter5-4\main.cpp(25): warning C4700: 초기화되지 않은 'x' 지역 변수를 사용했습니다.
+  Chapter5-4.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter5-4.exe
+  Chapter5-4.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter5-4.pdb (Partial PDB)
