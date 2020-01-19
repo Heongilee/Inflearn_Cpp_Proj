@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter7-5\main.cpp(9): warning C4172: 지역 변수 또는 임시: value의 주소를 반환하고 있습니다.
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter7-5\main.cpp(14): warning C4172: 지역 변수 또는 임시: value의 주소를 반환하고 있습니다.
+  Chapter7-5.vcxproj -> C:\Users\gjsrl\Documents\Git_space\Inflearn_Cpp_Proj\TBCppStudy\Debug\Chapter7-5.exe

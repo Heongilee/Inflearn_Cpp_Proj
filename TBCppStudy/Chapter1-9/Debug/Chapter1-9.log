@@ -1,3 +1,2 @@
 ﻿  main.cpp
-  Chapter1-9.vcxproj -> C:\Users\헌기\Desktop\CPP\WorkStation for CodeBlocks\in_VisualStudio\TBCppStudy\Debug\Chapter1-9.exe
-  Chapter1-9.vcxproj -> C:\Users\헌기\Desktop\CPP\WorkStation for CodeBlocks\in_VisualStudio\TBCppStudy\Debug\Chapter1-9.pdb (Partial PDB)
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter1-9\main.cpp(12): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.

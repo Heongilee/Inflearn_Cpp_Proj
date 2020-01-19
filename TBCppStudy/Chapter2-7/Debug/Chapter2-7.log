@@ -1,6 +1,5 @@
 ﻿  main.cpp
-c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-7\main.cpp(39): warning C4101: 'c3' :참조되지 않은 지역 변수입니다.
-c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-7\main.cpp(38): warning C4101: 'c2' :참조되지 않은 지역 변수입니다.
-c:\users\헌기\desktop\lanelevine\cpp\workstation\in_visualstudio\tbcppstudy\chapter2-7\main.cpp(40): warning C4101: 'c4' :참조되지 않은 지역 변수입니다.
-  Chapter2-7.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter2-7.exe
-  Chapter2-7.vcxproj -> C:\Users\헌기\Desktop\LaneLevine\CPP\WorkStation\in_VisualStudio\TBCppStudy\Debug\Chapter2-7.pdb (Partial PDB)
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter2-7\main.cpp(39): warning C4101: 'c3' :참조되지 않은 지역 변수입니다.
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter2-7\main.cpp(38): warning C4101: 'c2' :참조되지 않은 지역 변수입니다.
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter2-7\main.cpp(40): warning C4101: 'c4' :참조되지 않은 지역 변수입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(720,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: -1073741502).
