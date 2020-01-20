@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter7-7\main.cpp(21): error C2084: 'int typedef_func(int)' 함수에 이미 본문이 있습니다.
+  c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter7-7\main.cpp(18): note: 'typedef_func'의 이전 정의를 참조하십시오.
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter7-7\main.cpp(59): error C2065: 'typedef_func': 선언되지 않은 식별자입니다.
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter7-7\main.cpp(60): error C2065: 'typedef_func': 선언되지 않은 식별자입니다.
