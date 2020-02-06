@@ -3,19 +3,19 @@
 
 using namespace std;
 
-class Sth {
+class Ch_8_9_Sth {
 private:
 	int val;
 public:
 	//※ Call by value 방식으로 클래스를 함수 인자로 전달 했을 때, 값 복사가 일어 남에도 불구하고 생성자가 한번 밖에 호출 안되는 이유...
 		//-> Copy Constructor가 숨겨져 있기 때문.
-	Sth(const Sth & st) {
+	Ch_8_9_Sth(const Ch_8_9_Sth & st) {
 		this->val = st.val;
 
 		cout << "Copy Constructor" << endl;
 	}							
 	
-	Sth() {
+	Ch_8_9_Sth() {
 		cout << "Constructor" << endl;
 
 	}
@@ -45,7 +45,7 @@ public :
 		return this->val;
 	}
 };
-void print(const Sth &st) {
+void print(const Ch_8_9_Sth &st) {
 	cout << &st << endl;
 	//cout << st.getValue() << endl;
 
@@ -56,7 +56,7 @@ int main()
 		// 8-9 - (1)
 	// 인스턴스를 상수화(const)한다는 것은 멤버 변수를 상수화(const)한다는 것과 같다. 
 	//const Sth sth;
-	Sth sth;
+	Ch_8_9_Sth sth;
 
 	// 따라서 멤버변수의 값을 바꾸려고 하니 에러를 띄움
 	//sth.setValue(3);

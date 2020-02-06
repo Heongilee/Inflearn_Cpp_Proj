@@ -3,7 +3,7 @@
 
 using namespace std;
 
-struct Sth
+struct Ch_8_9_Sth
 {
 	int a, b, c, d; // 4 * 4 = 16byte
 };

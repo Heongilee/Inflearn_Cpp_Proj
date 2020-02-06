@@ -16,7 +16,7 @@ public:
 		cout << b << endl;
 	}
 };
-class Sth {
+class Ch_8_9_Sth {
 private:
 	int i = 100;
 	double d = 100.0;
@@ -25,7 +25,7 @@ private:
 	B b{ 1024 };	//생성자 초기화가 우선이 되기 때문에 해당 멤버 선언부에서 초기화 한 건 무시 된다. // Priority : 3 rd
 
 public:
-	Sth() 
+	Ch_8_9_Sth() 
 //		:i(1), d(3.14), c('a')	// Initializer List
 //		:i{1}, d{3.14}, c{'a'}	// Initializer List (Uniform Initialize 사용 :: 자동 형변환이 안된다는 것이 특징.)
 	:i{ 1 }, d{ 3.14 }, c{ 'a' }, arr{ 1, 2, 3, 4, 5 }, b(3)	// 배열도 초기화 가능. (C++ 11 부터...) // Priority : 2 nd
@@ -55,7 +55,7 @@ public:
 
 int main() 
 {
-	Sth s;
+	Ch_8_9_Sth s;
 
 	s.print();
 

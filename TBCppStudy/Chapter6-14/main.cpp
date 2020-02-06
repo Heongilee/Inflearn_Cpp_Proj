@@ -12,7 +12,7 @@ void doSth(int& n)
 	return;
 }
 
-struct Sth 
+struct Ch_8_9_Sth 
 {
 	int v1;
 	float v2;
@@ -20,7 +20,7 @@ struct Sth
 
 struct Sth_other 
 {
-	Sth st;
+	Ch_8_9_Sth st;
 };
 
 void printElements(const int (&arr)[5])
