@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\gjsrl\documents\git_space\inflearn_cpp_proj\tbcppstudy\chapter8-15\main.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  All 121 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Chapter8-15.vcxproj -> C:\Users\gjsrl\Documents\Git_space\Inflearn_Cpp_Proj\TBCppStudy\Release\Chapter8-15.exe
